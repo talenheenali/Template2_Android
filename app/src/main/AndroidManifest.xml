@@ -24,7 +24,7 @@
             />
         <activity
             android:theme="@style/AppTheme.NoActionBar"
-            android:name=".Login"
+            android:name=".Activity_Login"
             android:screenOrientation="portrait"
             />
         <activity
@@ -45,6 +45,11 @@
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:name=".Activiry_setting"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:theme="@style/AppTheme.NoActionBar"
+            android:name=".Activity_SendeMail"
             android:screenOrientation="portrait"
             />
     </application>

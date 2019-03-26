@@ -31,7 +31,7 @@ public class Launch extends AppCompatActivity {
         {
 
             Intent intent;
-            intent = new Intent(getApplicationContext(), Login.class);
+            intent = new Intent(getApplicationContext(), Activity_Login.class);
             startActivity(intent);
 
             finish();
